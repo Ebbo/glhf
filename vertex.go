@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"runtime"
 
-	"github.com/faiface/mainthread"
+	"github.com/ebbo/mainthread"
 	"github.com/go-gl/gl/v3.3-core/gl"
 	"github.com/pkg/errors"
 )
